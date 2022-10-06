@@ -19,8 +19,7 @@ foreach ($numerospares as $valor) {
 <br>
 <hr>
 
-<p>2. Crear un array e introducir los siguientes valores: Pedro, Ana, 34 y 1, sin asignar el índice de la
-matriz. Mostrar el esquema del array con print_r().</p>
+<p>2. Crear un array e introducir los siguientes valores: Pedro, Ana, 34 y 1, sin asignar el índice de la matriz. Mostrar el esquema del array con print_r().</p>
 <?php
 $matriz = ["Pedro","Ana","34","1"];
 print_r ($matriz);
